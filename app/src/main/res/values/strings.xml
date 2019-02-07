@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">codingchallenge</string>
+    <string name="url">https://api.github.com/search/repositories?q=%1S+language:assembly&amp;sort=stars&amp;order=desc</string>
+</resources>
